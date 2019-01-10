@@ -59,5 +59,6 @@
   </build>
   <modules>
   	<module>QueenBee-shiro</module>
+  	<module>QueenBee-common</module>
   </modules>
 </project>
